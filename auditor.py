@@ -16,7 +16,6 @@ def main():
 
         quantity = int(entry)  
 
-
         if quantity < 0:
             print(f"Error: {quantity} is negative. Entry rejected.")
             failed_entries += 1
