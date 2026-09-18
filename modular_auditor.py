@@ -3,7 +3,7 @@ OVERSTOCK_LIMIT = 500
 
 
 def get_valid_input():
-   
+
     entry = input("Enter stock quantity (or 'quit' to finish): ").strip()
 
     if entry.lower() == "quit":
@@ -66,6 +66,7 @@ def main():
             print(f"Inventory has reached maximum capacity ({OVERSTOCK_LIMIT} units).")
 
     generate_report(total_units_processed, failed_entries)
+
 
 
 if __name__ == "__main__":
