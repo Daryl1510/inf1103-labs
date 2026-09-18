@@ -22,6 +22,7 @@ def get_valid_input():
     return quantity
 
 
+
 def process_delivery(current_total, new_value):
     return current_total + new_value
 
@@ -67,6 +68,7 @@ def main():
             print(f"Inventory has reached maximum capacity ({OVERSTOCK_LIMIT} units).")
 
     generate_report(total_units_processed, failed_entries)
+
 
 
 
