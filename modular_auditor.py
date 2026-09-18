@@ -51,6 +51,7 @@ def main():
             failed_entries += 1
             continue
 
+
         quantity = result
         total_inventory = process_delivery(total_inventory, quantity)
         tax_owed = calculate_tax(quantity)
@@ -66,7 +67,6 @@ def main():
             print(f"Inventory has reached maximum capacity ({OVERSTOCK_LIMIT} units).")
 
     generate_report(total_units_processed, failed_entries)
-
 
 
 
