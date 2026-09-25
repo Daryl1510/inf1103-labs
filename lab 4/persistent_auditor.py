@@ -99,7 +99,6 @@ def main():
             continue
 
 
-
         quantity = result
         total_inventory = process_delivery(total_inventory, quantity)
         tax_owed = calculate_tax(quantity)
