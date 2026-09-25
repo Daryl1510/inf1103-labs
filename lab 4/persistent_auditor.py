@@ -98,6 +98,8 @@ def main():
             failed_entries += 1
             continue
 
+
+
         quantity = result
         total_inventory = process_delivery(total_inventory, quantity)
         tax_owed = calculate_tax(quantity)
