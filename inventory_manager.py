@@ -21,7 +21,6 @@ def load_inventory():
     print("No inventory.json found. Starting with an empty inventory.")
     return []
 
-
 def save_inventory(inventory):
     """Write the inventory list to inventory.json."""
     os.makedirs(DATA_DIR, exist_ok=True)
