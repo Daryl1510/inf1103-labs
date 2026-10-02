@@ -16,5 +16,17 @@
         "name": "Keyboard",
         "price": 45.0,
         "stock": 25
+    },
+    {
+        "id": "131",
+        "name": "product8",
+        "price": 123.0,
+        "stock": 222
+    },
+    {
+        "id": "12",
+        "name": "12",
+        "price": 1233.0,
+        "stock": 34
     }
 ]

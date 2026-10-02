@@ -1,0 +1,36 @@
+commit efba2cfd06fc43b37498c614fbed2e7233dded4e
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 17:10:24 2026 +0800
+
+    Update inventory_manager.py
+
+commit cfd968cfbe690bdd045da933a7403f847d2047b5
+Merge: 1fb5ddc 153f4fa
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 17:05:42 2026 +0800
+
+    Merge remote lab history
+
+commit 1fb5ddcd5ba25fea6717bf2fffecdaed0873c9f2
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 16:50:31 2026 +0800
+
+    Debugged codes
+
+commit f63239d3965e3edd359a4ed8ca609782b8079bb1
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 16:40:45 2026 +0800
+
+    save_inventory() verified
+
+commit 447321a88c3758c409fedc61375b51da06d72bd6
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 16:30:25 2026 +0800
+
+    load_inventory() working
+
+commit ea1ab2b3dfb06f7800c4cee7100ca947c259827e
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 16:10:20 2026 +0800
+
+    Add product dictionaries and starter products
