@@ -38,3 +38,4 @@ class Inventory:
         """Return all products as a list of dictionaries (used when saving to JSON)."""
         return [product.to_dict() for product in self.__products]
 
+
