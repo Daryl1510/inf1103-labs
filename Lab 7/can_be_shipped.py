@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 
 
+
 class CanBeShipped(ABC):
     """Interface-style contract: anything that can be shipped must be able to
     calculate its own shipping cost.

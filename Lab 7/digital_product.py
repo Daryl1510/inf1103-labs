@@ -1,6 +1,7 @@
 from product import Product
 
 
+
 class DigitalProduct(Product):
     """A product delivered electronically. It does not need shipping,
     so it does NOT implement CanBeShipped."""
