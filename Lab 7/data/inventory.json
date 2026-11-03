@@ -38,5 +38,13 @@
         "stock": 2,
         "type": "digital",
         "download_size": 3.0
+    },
+    {
+        "id": "WE",
+        "name": "23",
+        "price": 3.0,
+        "stock": 12,
+        "type": "digital",
+        "download_size": 3.0
     }
 ]
