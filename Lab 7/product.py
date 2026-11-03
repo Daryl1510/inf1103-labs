@@ -1,6 +1,8 @@
 from abc import ABC, abstractmethod
 
 
+
+
 class Product(ABC):
     """Abstract base class for every product in the system.
 
