@@ -1,0 +1,258 @@
+commit 4b192795dfcb100813af3c83fd4714f8c7b9caf3
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 15:55:22 2026 +0800
+
+    Add Lab 9 UML diagram, Predict First notes and remaining files
+
+commit dffde5c132f713211f6deb24797ca98bb59aa354
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 14:53:18 2026 +0800
+
+    Add Predict First demo script and copy tests and CSV into Docker image
+
+commit b9502275c671edc512058dd83b4f46c638f0557c
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 13:53:12 2026 +0800
+
+    Add automated unit tests for strategies, factory, validation and loading
+
+commit 21bf3486b5269185816587014505535386ee7e39
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 12:53:09 2026 +0800
+
+    Use factory and safe input handling in manager, add CSV product loader
+
+commit 0042df3b5fd920b5cdc4fd4ce149990c39860a62
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 11:53:05 2026 +0800
+
+    Add validation for price, stock quantity and order line quantity
+
+commit 31dd2bb08abb4d232fd1dc455300d429f1cb3dab
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 10:53:00 2026 +0800
+
+    Add ProductFactory to centralise product creation
+
+commit e424a3e0a620ad16a9d6d18f350824e372d9d67d
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 09:52:55 2026 +0800
+
+    Add Strategy pattern for order discounts and update Order to use it
+
+commit ecd964d9ddc04e0ae96ec58a7f9adca8cf3a8446
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 04:26:20 2026 +0800
+
+    Add saved inventory data from Docker run
+
+commit 92349efeae687210342c42d066a54c80bfdf56d2
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 03:18:24 2026 +0800
+
+    Add Lab 8 tests, UML diagram, Predict First notes and Dockerfile
+
+commit 591662dd234027699666f19fd3061c2987974f66
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 02:18:20 2026 +0800
+
+    Update inventory manager to use suppliers and load old saved data
+
+commit efd9712e4c712a6032da0e706425ed22789d2914
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 02:10:15 2026 +0800
+
+    Add Order and OrderLine (composition)
+
+commit 8964827e0e6c666ff9b5fd4db55de111daa5bb7d
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 01:18:11 2026 +0800
+
+    Update Inventory with type hints, remove_product() and find_product()
+
+commit 57f34691c177913a413832ff4e8d8329672f042c
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 01:11:59 2026 +0800
+
+    Associate Product with Supplier and add type hints to the product classes
+
+commit 08d6e54cd02bd72132ed4925e102d3f6a94e9c14
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Nov 13 01:00:50 2026 +0800
+
+    Add Supplier class with display_information()
+
+commit bf3b5b3d109d8282df7d7295ad7d097ef2fbd094
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Tue Nov 3 16:28:02 2026 +0800
+
+    tested run success with docker
+
+commit 5d6fda5cd41f80b5678bd09bb33e4c459ee12607
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Tue Nov 3 16:22:03 2026 +0800
+
+    Debugged and tested Lab 7 inheritance and abstract classes
+
+commit cac1bc4da4409457b853ed6ce1dede3c6155aeeb
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Tue Nov 3 16:20:54 2026 +0800
+
+    Lab 7: inheritance, abstract classes and interface
+
+commit b67a6b9eb48453dd61ee1f5806deec0019043f3f
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Mon Nov 2 04:17:58 2026 +0800
+
+    Lab 7: inheritance, abstract classes and interface
+
+commit 9727450936ca1ae281eadc834cdf850a91b0f5c8
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Mon Nov 2 03:55:01 2026 +0800
+
+    Completed OOP inventory management system
+
+commit 19f01bc523a28d627d789f1d10a676b108e02433
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Mon Nov 2 03:53:31 2026 +0800
+
+    Refactored inventory system using OOP
+
+commit 90bfc9151667d56b8d531373db9976f0f4dcd64b
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Mon Nov 2 03:53:25 2026 +0800
+
+    Created Inventory class
+
+commit caa55683d38b6b595f03b7ef6c565381018f8f61
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Mon Nov 2 03:53:12 2026 +0800
+
+    Created Product class
+
+commit 13257736f3a6fca97603c9c83acd8fec581e1b9a
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 25 16:26:16 2026 +0800
+
+    debugged
+
+commit 2b9eef81c23890ca9a76f28a3008e0fbc8959563
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 25 16:25:24 2026 +0800
+
+    history list tracking transactions
+
+commit 342f7c826267cc6908ae458442838abb9ce74c75
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 25 16:23:00 2026 +0800
+
+    load inventory function codes
+
+commit 66bfcc19c63cd6c7087a62a4bad22c1b72bfa64e
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 4 17:13:57 2026 +0800
+
+    Final
+
+commit f2026b8d108bd0bea9891fc18fa0d8bdd650c63a
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 4 17:11:27 2026 +0800
+
+    Added Profile Variables
+
+commit 793a5d1a7664a083b789adb29e7ca895d306cd22
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 4 17:10:56 2026 +0800
+
+    First Post
+
+commit 0be0f0aed7ef4ff37709be0eae808b69167d1ace
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 4 17:08:05 2026 +0800
+
+    Add gitignore
+
+commit b41fae898de107a2ff18bf98992ababbf17dfba2
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 17:11:53 2026 +0800
+
+    Final inventory update
+
+commit ff6463082e9b29f25233e9d294f69b656ed968da
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 17:05:29 2026 +0800
+
+    Update Dockerfile for inventory_manager
+
+commit efba2cfd06fc43b37498c614fbed2e7233dded4e
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 17:02:24 2026 +0800
+
+    Update inventory_manager.py
+
+commit cfd968cfbe690bdd045da933a7403f847d2047b5
+Merge: 1fb5ddc 153f4fa
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 17:00:42 2026 +0800
+
+    Merge remote lab history
+
+commit 1fb5ddcd5ba25fea6717bf2fffecdaed0873c9f2
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 16:55:31 2026 +0800
+
+    Debugged codes
+
+commit f63239d3965e3edd359a4ed8ca609782b8079bb1
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 16:54:45 2026 +0800
+
+    save_inventory() verified
+
+commit 447321a88c3758c409fedc61375b51da06d72bd6
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 16:54:25 2026 +0800
+
+    load_inventory() working
+
+commit ea1ab2b3dfb06f7800c4cee7100ca947c259827e
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Oct 2 16:54:20 2026 +0800
+
+    Add product dictionaries and starter products
+
+commit 153f4fac75116db2169bead40df32cb6a70c43fb
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 18 17:08:06 2026 +0800
+
+    Fix Dockerfile to build modular_auditor.py
+
+commit d4fefaed2d8a16e2e2cdb681bb53388c7105b02a
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 18 16:20:04 2026 +0800
+
+    Debugged functions
+
+commit e126449e60dfe3af54912eb7e2e944146d92c481
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 18 16:19:18 2026 +0800
+
+    Add remaining functions
+
+commit 6cf4f099a896e0c6b3207b3ab6acb67202366f3c
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 18 16:18:31 2026 +0800
+
+    Add overstock limit function
+
+commit 7c0192110e305e52d93290dad3f12ba2c6b0c5b7
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 18 16:17:35 2026 +0800
+
+    Add discount calculation function
+
+commit e9058fa573bc9b1ce267fd944c49a9406197ea27
+Author: Daryl Lim <daryllim52@gmail.com>
+Date:   Fri Sep 18 16:13:26 2026 +0800
+
+    Add modular_auditor.py First base commit
